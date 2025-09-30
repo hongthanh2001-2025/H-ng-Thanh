@@ -1,5 +1,4 @@
 # Hong-Thanh
-tôi thích viet code 
 from flask import Flask, render_template, request, redirect, url_for
 import json, os
 
